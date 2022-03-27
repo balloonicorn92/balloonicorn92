@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborating on projects to refine my javascript skills.
 - 🌱 I’m currently learning quality assurance fundamentals
 - 💞️ I’m looking to collaborate on projects that are going to allow me to practice working with different testing networks.
-- 📫 How to reach me right here on github or on my linkedIn profile: [a link] (https://www.linkedin.com/in/fernanda-frers/)
+- 📫 How to reach me right here on github or on my linkedIn profile: (https://www.linkedin.com/in/fernanda-frers/)
 
 
 <!---
